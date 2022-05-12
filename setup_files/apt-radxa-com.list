@@ -1,0 +1,2 @@
+deb http://apt.radxa.com/buster-stable/ buster main
+deb http://apt.radxa.com/buster-testing/ buster main
